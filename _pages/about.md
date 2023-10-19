@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Nanjing University</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Nanjing University</a>. Nanjing,Qixia District, Xianlin Road No.163.
 
 profile:
   align: right
