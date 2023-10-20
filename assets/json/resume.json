@@ -38,7 +38,7 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "City University of Hong Kong, Hong Kong China",
+      "institution": "City University of Hong Kong, Hong Kong, China",
       "url": "https://scm.cityu.edu.hk",
       "area": "Creative Media",
       "studyType": "Master",
@@ -47,6 +47,16 @@
       "score": "",
       "courses": [
         "Media Culture"
+
+      "institution": "Central South University, Changsha, China",
+      "url": "https://clj.csu.edu.cn",
+      "area": "Digital Publishing",
+      "studyType": "Bachelor",
+      "startDate": "2019-06-30",
+      "endDate": "2015-09-01",
+      "score": "",
+      "courses": [
+        "Communication and Digital Media Theory"
       ]
     }
   ],
