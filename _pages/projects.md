@@ -1,8 +1,8 @@
 ---
 layout: page
-title: pictures
-permalink: /pictures/
-description: A growing collection of your cool life.
+title: Pictures
+permalink: /Pictures/
+description: I caght the happy virus last night.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
