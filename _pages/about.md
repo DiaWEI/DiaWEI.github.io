@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Nanjing University</a>. Nanjing, Qixia District, Xianlin Road No.163.
 
